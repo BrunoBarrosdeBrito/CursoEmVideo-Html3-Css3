@@ -8,5 +8,6 @@
     <h1>Curso Em Vídeo de Html5 e Css3</h1>
     <p>Repositória para colocar as minhas atividades do curso de html e css do curso em vídeo do Gustavo Guanabara.</p>
     <p>A pasta de "Conteudo-PDF" que está no repositorio são os PDFs que o professor Guanabara usa em suas aulas.</p>
+    <p>Esse repositoria foi feito para fins de estudo pessoal.</p>
 </body>
 </html>
