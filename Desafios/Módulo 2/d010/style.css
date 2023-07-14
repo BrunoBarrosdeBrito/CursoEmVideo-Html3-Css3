@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'android';
+    src: url(fontes/idroid.otf);
+}
+/*Inicio do Header*/
+header{
+    background-image: linear-gradient(to bottom, #3aee88, #1A5C38);
+    height: 250px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Final do Header*/
+body{
+    background-color: #84E1AD;
+}
